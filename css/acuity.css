@@ -122,7 +122,7 @@ body.acuity-modal-visible .acuity-embed-modal iframe {
 .acuity-embed-button,
 a.acuity-embed-button,
 a.acuity-embed-button:link {
-	color: #2f80ed
+	color: #fff
 }
 
 .acuity-embed-button {
@@ -140,7 +140,7 @@ a.acuity-embed-button:link {
 .acuity-embed-button:focus,
 .acuity-embed-button:hover,
 .acuity-embed-button:visited {
-	color: #2f80ed
+	color: #fff
 }
 
 .acuity-embed-button:hover {
@@ -149,9 +149,9 @@ a.acuity-embed-button:link {
 }
 
 .acuity-embed-button {
-	background-color: #FF4500 !important;
+	background-color: #2f80ed !important;
 }
 
 .acuity-modal-close {
-	color: #FF4500 !important;
+	color: #2f80ed !important;
 }
