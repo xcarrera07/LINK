@@ -122,11 +122,11 @@ body.acuity-modal-visible .acuity-embed-modal iframe {
 .acuity-embed-button,
 a.acuity-embed-button,
 a.acuity-embed-button:link {
-	color: #fff
+	color: #FF4500
 }
 
 .acuity-embed-button {
-	background: #FF4500;
+	background: #2f80ed;
 	padding: 8px 12px;
 	border: 0;
 	-webkit-box-shadow: 0 -2px 0 rgba(0, 0, 0, .15) inset;
@@ -140,7 +140,7 @@ a.acuity-embed-button:link {
 .acuity-embed-button:focus,
 .acuity-embed-button:hover,
 .acuity-embed-button:visited {
-	color: #fff
+	color: #FF4500
 }
 
 .acuity-embed-button:hover {
